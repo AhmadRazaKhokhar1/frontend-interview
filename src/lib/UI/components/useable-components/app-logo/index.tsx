@@ -2,7 +2,7 @@ export default function AppLogo() {
   return (
     <div className="flex items-center gap-2">
       <img
-        src="/src/assets/logo.png"
+        src="../../../../../assets/logo.png"
         alt="Company Logo"
       />
       <div>
