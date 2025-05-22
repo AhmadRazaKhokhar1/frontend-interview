@@ -16,7 +16,7 @@ export default function SecondaryRoutesPanel({
       className="p-2 bg-transparent w-[30%] mx-[30%] mt-32 absolute  z-50"
     >
       <div className="w-full bg-white dark:bg-[#001339] shadow-2xl overflow-hidden rounded-lg max-h-[80vh] md:max-h-[70vh] p-5">
-        <div className="bg-[#ffffff5e] rounded-full w-6 h-6 flex items-center justify-center absolute right-">
+        <div className="bg-[#ffffff5e] rounded-full w-6 h-6 flex items-center justify-center absolute right-12">
           <CgClose
             color="red"
             onClick={onCloseDialog}

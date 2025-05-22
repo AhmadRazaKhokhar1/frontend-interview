@@ -18,7 +18,7 @@ export default function HomeHeroSection() {
         <button className="bg-white text-black flex flex-row items-center justify-center font-semibold px-6 py-3 rounded cursor-pointer transition hover:shadow-[#ffffff6f] hover:shadow-lg hover:bg-[#b7b05b95] hover:text-white">
           <span>
             <p>BOOK A MEETING</p>
-          </span>{" "}
+          </span>
           <IoArrowForward />
         </button>
       </div>
@@ -26,7 +26,7 @@ export default function HomeHeroSection() {
       {/* Right Image Section */}
       <div className="w-full h-full">
         <img
-          src="../../../../../../assets/banner.png"
+          src="/src/assets/banner.png"
           alt="Robot holding globe"
           className="w-full h-full object-contain ml-32 -mb-32"
         />
