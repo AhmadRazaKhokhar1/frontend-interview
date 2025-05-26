@@ -26,7 +26,7 @@ export default function HomeHeroSection() {
       {/* Right Image Section */}
       <div className="w-full h-full">
         <img
-          src="/src/assets/banner.png"
+          src="https://i.ibb.co/7dpd35NB/banner.png"
           alt="Robot holding globe"
           className="w-full h-full object-contain ml-32 -mb-32"
         />
