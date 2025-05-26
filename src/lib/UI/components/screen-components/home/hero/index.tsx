@@ -28,7 +28,7 @@ export default function HomeHeroSection() {
         <img
           src="https://i.ibb.co/7dpd35NB/banner.png"
           alt="Robot holding globe"
-          className="w-full h-full object-contain ml-32 -mb-32"
+          className="w-full h-full object-contain ml-32 -mb-28 lg:-mb-52"
         />
       </div>
     </div>
